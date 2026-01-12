@@ -1,1 +1,1 @@
-A Tic-Tac-Toe bot that plays perfectly (win or tie) using 
+A Tic-Tac-Toe bot that plays perfectly (win or tie) using Void Bot
