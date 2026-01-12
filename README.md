@@ -1,1 +1,1 @@
-### A Tic-Tac-Toe bot that play perfectly (win or tie)
+A Tic-Tac-Toe bot that plays perfectly (win or tie)
